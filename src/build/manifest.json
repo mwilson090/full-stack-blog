@@ -1,6 +1,6 @@
 {
-  "short_name": "My Blog",
-  "name": "My Blog - A Blog About All Things Programming",
+  "short_name": "Jenny and Madeline's Book Club",
+  "name": "A monthly book club for our buds!",
   "icons": [
     {
       "src": "favicon.ico",
@@ -16,6 +16,11 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "start_url": ".",
