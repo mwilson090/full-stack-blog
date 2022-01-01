@@ -1,4 +1,5 @@
 # full-stack-blog
+![image](https://user-images.githubusercontent.com/20343959/147861759-30db852f-70a4-4d65-9526-c8554cd25d34.png)
 ## To update the site:
 1) On the front end repo, make and commit updates. Then, run
 ```
