@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.21289936.chunk.css",
-    "main.js": "/static/js/main.6cf8e9e9.chunk.js",
-    "main.js.map": "/static/js/main.6cf8e9e9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9dd309ef.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9dd309ef.js.map",
-    "static/js/2.4b7f06b1.chunk.js": "/static/js/2.4b7f06b1.chunk.js",
-    "static/js/2.4b7f06b1.chunk.js.map": "/static/js/2.4b7f06b1.chunk.js.map",
-    "static/js/3.d346cfb9.chunk.js": "/static/js/3.d346cfb9.chunk.js",
-    "static/js/3.d346cfb9.chunk.js.map": "/static/js/3.d346cfb9.chunk.js.map",
+    "main.js": "/static/js/main.a6470841.chunk.js",
+    "main.js.map": "/static/js/main.a6470841.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c981b96b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c981b96b.js.map",
+    "static/js/2.9fa07bf5.chunk.js": "/static/js/2.9fa07bf5.chunk.js",
+    "static/js/2.9fa07bf5.chunk.js.map": "/static/js/2.9fa07bf5.chunk.js.map",
+    "static/js/3.8713380f.chunk.js": "/static/js/3.8713380f.chunk.js",
+    "static/js/3.8713380f.chunk.js.map": "/static/js/3.8713380f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.21289936.chunk.css.map": "/static/css/main.21289936.chunk.css.map",
-    "static/js/2.4b7f06b1.chunk.js.LICENSE.txt": "/static/js/2.4b7f06b1.chunk.js.LICENSE.txt",
+    "static/js/2.9fa07bf5.chunk.js.LICENSE.txt": "/static/js/2.9fa07bf5.chunk.js.LICENSE.txt",
+    "static/media/Book_Club_Invite_June_2022.3a8114e9.png": "/static/media/Book_Club_Invite_June_2022.3a8114e9.png",
     "static/media/beach.jpg": "/static/media/beach.b8f4c685.jpg",
     "static/media/city.jpg": "/static/media/city.d4777680.jpg",
     "static/media/convenience.jpg": "/static/media/convenience.46fc49b0.jpg",
-    "static/media/feb22.ac7870a7.png": "/static/media/feb22.ac7870a7.png",
     "static/media/fever.jpg": "/static/media/fever.2b0e0f34.jpg",
     "static/media/first.jpg": "/static/media/first.ca17c804.jpg",
+    "static/media/foundation.jpg": "/static/media/foundation.af3c06c8.jpg",
     "static/media/goodreads.70548043.jpg": "/static/media/goodreads.70548043.jpg",
     "static/media/handmaids.jpg": "/static/media/handmaids.0573eac0.jpg",
     "static/media/hobbit.927e28c2.jpg": "/static/media/hobbit.927e28c2.jpg",
@@ -25,12 +26,14 @@
     "static/media/howls.jpg": "/static/media/howls.445ca093.jpg",
     "static/media/interior.jpg": "/static/media/interior.41d16f4e.jpg",
     "static/media/klara.jpg": "/static/media/klara.14b17380.jpg",
-    "static/media/none.jpg": "/static/media/none.f3cdb520.jpg"
+    "static/media/longer.jpg": "/static/media/longer.52188010.jpg",
+    "static/media/none.jpg": "/static/media/none.f3cdb520.jpg",
+    "static/media/plow.jpg": "/static/media/plow.0b5cefbd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dd309ef.js",
-    "static/js/2.4b7f06b1.chunk.js",
+    "static/js/runtime-main.c981b96b.js",
+    "static/js/2.9fa07bf5.chunk.js",
     "static/css/main.21289936.chunk.css",
-    "static/js/main.6cf8e9e9.chunk.js"
+    "static/js/main.a6470841.chunk.js"
   ]
 }
