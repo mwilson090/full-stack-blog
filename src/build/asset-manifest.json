@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.21289936.chunk.css",
-    "main.js": "/static/js/main.19734bea.chunk.js",
-    "main.js.map": "/static/js/main.19734bea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c9507630.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c9507630.js.map",
-    "static/js/2.83f0e4a8.chunk.js": "/static/js/2.83f0e4a8.chunk.js",
-    "static/js/2.83f0e4a8.chunk.js.map": "/static/js/2.83f0e4a8.chunk.js.map",
-    "static/js/3.7b8e5a20.chunk.js": "/static/js/3.7b8e5a20.chunk.js",
-    "static/js/3.7b8e5a20.chunk.js.map": "/static/js/3.7b8e5a20.chunk.js.map",
+    "main.js": "/static/js/main.5a9c6884.chunk.js",
+    "main.js.map": "/static/js/main.5a9c6884.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ad262e04.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ad262e04.js.map",
+    "static/js/2.10034ece.chunk.js": "/static/js/2.10034ece.chunk.js",
+    "static/js/2.10034ece.chunk.js.map": "/static/js/2.10034ece.chunk.js.map",
+    "static/js/3.d59b9dd0.chunk.js": "/static/js/3.d59b9dd0.chunk.js",
+    "static/js/3.d59b9dd0.chunk.js.map": "/static/js/3.d59b9dd0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.21289936.chunk.css.map": "/static/css/main.21289936.chunk.css.map",
-    "static/js/2.83f0e4a8.chunk.js.LICENSE.txt": "/static/js/2.83f0e4a8.chunk.js.LICENSE.txt",
-    "static/media/Book_Club_Invite_June_2022.3a8114e9.png": "/static/media/Book_Club_Invite_June_2022.3a8114e9.png",
+    "static/js/2.10034ece.chunk.js.LICENSE.txt": "/static/js/2.10034ece.chunk.js.LICENSE.txt",
+    "static/media/Book_Club_Invite_July_2022.5ea8398b.png": "/static/media/Book_Club_Invite_July_2022.5ea8398b.png",
     "static/media/beach.jpg": "/static/media/beach.b8f4c685.jpg",
+    "static/media/cerulean.jpg": "/static/media/cerulean.9fa221e8.jpg",
     "static/media/city.jpg": "/static/media/city.d4777680.jpg",
     "static/media/convenience.jpg": "/static/media/convenience.46fc49b0.jpg",
     "static/media/fever.jpg": "/static/media/fever.2b0e0f34.jpg",
@@ -31,9 +32,9 @@
     "static/media/plow.jpg": "/static/media/plow.0b5cefbd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9507630.js",
-    "static/js/2.83f0e4a8.chunk.js",
+    "static/js/runtime-main.ad262e04.js",
+    "static/js/2.10034ece.chunk.js",
     "static/css/main.21289936.chunk.css",
-    "static/js/main.19734bea.chunk.js"
+    "static/js/main.5a9c6884.chunk.js"
   ]
 }
